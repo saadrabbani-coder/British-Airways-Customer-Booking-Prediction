@@ -49,6 +49,9 @@ This project predicts whether a customer will complete a booking using machine l
 - PowerPoint Presentation
 - Feature Importance Visualization
 
+## NOTE: 
+The dataset is provided as part of the Forage British Airways Job Simulation and is therefore not included in this repository.
+
 ---
 
 ## Author
